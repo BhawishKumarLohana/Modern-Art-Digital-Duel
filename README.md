@@ -1,7 +1,11 @@
-Modern Art: Digital Duel
+Welcome to Modern Art: Digital Duel, a console-based Java game that immerses you in the strategic and colorful world of art trading! Built entirely on Object-Oriented Programming (OOP) principles, this game offers a robust and engaging experience that challenges your decision-making skills against a sophisticated AI opponent.
 
-Step into the vibrant arena of Modern Art: Digital Duel, where creativity meets strategy in an exhilarating showdown! Challenge a cutting-edge AI opponent as you navigate the thrilling art market, acquiring, trading, and auctioning unique pieces of art.
+In Digital Duel, you'll step into the shoes of an ambitious art dealer. Acquire, auction, and trade unique artworks while navigating a dynamic market that can change with every turn. The AI is designed to adapt to your strategies, ensuring that no two duels are ever the same.
 
-In this digital masterpiece, you’ll become an art dealer, making strategic decisions to outwit your rival. Each artwork tells a story, and its value can shift in the blink of an eye—will you seize the opportunity or watch it slip away? The AI adapts to your tactics, ensuring every duel is a fresh and engaging experience.
+Key Features:
 
-With stunning graphics and immersive gameplay, Modern Art: Digital Duel redefines the classic board game, bringing the excitement of the art world right to your screen. Are you ready to showcase your strategic brilliance and claim your place as the ultimate art connoisseur? Let the duel begin!
+    OOP Excellence: Experience a well-structured codebase that showcases the power of encapsulation, inheritance, and polymorphism.
+    Dynamic Gameplay: Each game presents new challenges and opportunities, keeping you on your toes.
+    Artistic Strategy: Develop your tactics to outsmart the AI, balancing risk and reward as you build your art collection.
+
+Will you rise to the challenge and become the ultimate art mogul? Grab your console, sharpen your strategies, and prepare for a thrilling duel in Modern Art: Digital Duel!
